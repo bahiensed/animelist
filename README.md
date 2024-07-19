@@ -2,8 +2,11 @@
 
 ![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 ### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
 
+## TODOs:
+
+Deploy: //https://www.digitalocean.com/community/developer-center/deploying-a-next-js-application-on-a-digitalocean-droplet  
+Scroll back to top floating button  
+Sort by category, episodes, etc.  
+Create a Pokemon (or Atari) alternative version  
